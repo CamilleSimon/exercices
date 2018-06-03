@@ -7,3 +7,9 @@ Erastothène, mathématicien grec du IIIème siècle avant notre ère, inventa u
 - **C.** Recommençons l(opération précédente tant que cela est possible. Cela définit la suite des nombres *premiers*.
 
 Prenons l'ensemble des entiers plus grands que 1 :
+
+| Titre 1       |     Titre 2     |        Titre 3 |
+| :------------ | :-------------: | -------------: |
+| Colonne       |     Colonne     |        Colonne |
+| Alignée à     |   Alignée au    |      Alignée à |
+| Gauche        |     Centre      |         Droite |
